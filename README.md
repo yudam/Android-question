@@ -1,7 +1,10 @@
 ### 操作系统问题？
 * 操作系统中进程和线程的区别？
 * 死锁的产生和避免？
+
+### Android基础问题？
 * Android Studio中V1、V2签名的区别？
+* Handler中looper.loop()阻塞状态时为什么不会导致ANR？
 
 
 
