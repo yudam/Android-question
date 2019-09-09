@@ -5,6 +5,7 @@
 ### Android基础问题？
 * Android Studio中V1、V2签名的区别？
 * Handler中looper.loop()阻塞状态时为什么不会导致ANR？
+* ThreadLocal的使用和作用？
 
 
 
