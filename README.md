@@ -20,5 +20,5 @@
 在onCreate、onStart和onResume中等待操作时间错长，导致掉帧甚至ANR。Looper.loop本身并不会导致主线程卡死。  
 * MessageQueue中没有消息时，主线程会释放CPU资源进入休眠，不会特别消耗CPU资源。  
 * 注意：当我们创建一个线程时，线程本身并不会创建Looper对象，如果我们创建了Looper对象，并调用了loop方法，要注意loop方法之后的方法不会继续执行。
-所以在线程执行完成后，需要调用quit方法 来退出线程。
-[](https://www.cnblogs.com/chenxibobo/p/9640472.html)
+所以在线程执行完成后，需要调用quit方法 来退出线程。  
+[handler、looper死循环](https://www.cnblogs.com/chenxibobo/p/9640472.html)
