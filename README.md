@@ -22,3 +22,5 @@
 * 注意：当我们创建一个线程时，线程本身并不会创建Looper对象，如果我们创建了Looper对象，并调用了loop方法，要注意loop方法之后的方法不会继续执行。
 所以在线程执行完成后，需要调用quit方法 来退出线程。  
 [handler、looper死循环](https://www.cnblogs.com/chenxibobo/p/9640472.html)
+
+#### SharedPreferences原理？能否跨进程实现？
