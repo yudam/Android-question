@@ -23,4 +23,8 @@
 所以在线程执行完成后，需要调用quit方法 来退出线程。  
 [handler、looper死循环](https://www.cnblogs.com/chenxibobo/p/9640472.html)
 
+#### ThreadLocal的使用和作用？  
+
+
+
 #### SharedPreferences原理？能否跨进程实现？
