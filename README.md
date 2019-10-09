@@ -24,8 +24,7 @@
 [handler、looper死循环](https://www.cnblogs.com/chenxibobo/p/9640472.html)
 
 #### ThreadLocal的使用和作用？  
-
-
+[ThreadLocal的使用](https://github.com/yudam/Android-question/blob/master/ThreadLocal%E8%A7%A3%E6%9E%90.md)
 
 #### SharedPreferences原理？能否跨进程实现？
 
