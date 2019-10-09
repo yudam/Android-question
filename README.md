@@ -28,3 +28,6 @@
 
 
 #### SharedPreferences原理？能否跨进程实现？
+
+
+#### Intent 能传递多大 Size 的数据? Intent中用法和序列化的作用？
