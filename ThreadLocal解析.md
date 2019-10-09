@@ -1,0 +1,3 @@
+ThreadLocalMap是ThreadLocal的内部静态类，内部维护了一个初始容量为16的table数组。每一个线程内部单独维护了一个ThreadLocalMap对象。  
+总结来说就是：每个Thread内部维护了一个ThreadLocalMap对象，ThreadLocalMap对象内又维护了一个table数组，以ThreadLocal的具体转码的Hash值为下标
+来进行存储数据。
