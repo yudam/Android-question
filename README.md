@@ -34,3 +34,4 @@
 #### 多线程并发问题？(volatile，Synchronized,ReentranLock和集合)
 
 #### volatile的原理？以及为什么没有实现原子性？
+[volatile的操作原理](https://www.cnblogs.com/monkeysayhi/p/7654460.html)
