@@ -32,3 +32,5 @@
 #### Intent 能传递多大 Size 的数据? Intent中用法和序列化的作用？
 
 #### 多线程并发问题？(volatile，Synchronized,ReentranLock和集合)
+
+#### volatile的原理？以及为什么没有实现原子性？
