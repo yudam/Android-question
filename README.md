@@ -35,3 +35,5 @@
 
 #### volatile的原理？以及为什么没有实现原子性？
 [volatile的操作原理](https://www.cnblogs.com/monkeysayhi/p/7654460.html)
+
+#### ViewGroup中添加View为什么不显示？如果显示的话为什么在手动测量View？
